@@ -1,7 +1,8 @@
 # flutter_horoscope_app
-
-A new Flutter project.
-
+ <img src="https://i.hizliresim.com/mm7j1ll.png" alt="MarineGEO circle logo" style="height: 500px; width:300px;"/>
+ <img src="https://i.hizliresim.com/qcoap4b.png" alt="MarineGEO circle logo" style="height: 500px; width:300px;"/>
+ <img src="https://i.hizliresim.com/4k2koe8.png" alt="MarineGEO circle logo" style="height: 500px; width:300px;"/>
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
