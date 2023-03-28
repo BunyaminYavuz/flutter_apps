@@ -2,9 +2,10 @@
 I made a horoscope detail application with my current flutter knowledge level.
 
 # flutter_horoscope_app
- <img src="https://i.hizliresim.com/mm7j1ll.png" alt="MarineGEO circle logo" style="height: 500px; width:300px;"/>
- <img src="https://i.hizliresim.com/qcoap4b.png" alt="MarineGEO circle logo" style="height: 500px; width:300px;"/>
- <img src="https://i.hizliresim.com/4k2koe8.png" alt="MarineGEO circle logo" style="height: 500px; width:300px;"/>
+ <img src="https://i.hizliresim.com/mm7j1ll.png" alt="Page 1" style="height: 500px; width:300px;"/>
+ <img src="https://i.hizliresim.com/qcoap4b.png" alt="Page 2" style="height: 500px; width:300px;"/>
+ <img src="https://i.hizliresim.com/4k2koe8.png" alt="Page 3" style="height: 500px; width:300px;"/>
+ 
  
 ## Getting Started
 
