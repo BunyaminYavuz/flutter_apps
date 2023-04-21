@@ -1,7 +1,15 @@
 # flutter_horoscope_app
- <img src="https://i.hizliresim.com/mm7j1ll.png" alt="MarineGEO circle logo" style="height: 500px; width:300px;"/>
- <img src="https://i.hizliresim.com/qcoap4b.png" alt="MarineGEO circle logo" style="height: 500px; width:300px;"/>
- <img src="https://i.hizliresim.com/4k2koe8.png" alt="MarineGEO circle logo" style="height: 500px; width:300px;"/>
+
+<div align="center">
+<hr>
+<h3>Burc Listesi</h3>
+<img src="page_images/page1.png" alt="State 1" style="height: 500px; width:300px;"/>
+<hr>
+<h3>Detay Sayfası</h3>
+<img src="page_images/page2.png" alt="State 2" style="height: 500px; width:300px;"/>
+<img src="page_images/page3.png" alt="State 3" style="height: 500px; width:300px;"/>
+<hr>
+</div>
  
 ## Getting Started
 
